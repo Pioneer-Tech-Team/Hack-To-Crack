@@ -4,7 +4,7 @@ import Judge3 from "./Judge3";
 import { set1, set2, set3, set4 } from "./Details";
 const judges = () => {
   useEffect(() => {
-    document.title = "Judge Panel | Hack a Tank";
+    document.title = "Judge Panel | Hack To Crack";
   },[]);
 
 

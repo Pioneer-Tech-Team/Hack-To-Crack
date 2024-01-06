@@ -120,7 +120,7 @@ const hero = () => {
             <div className="curve"></div>
 
             <div className="title1">
-              <span className="hackathon"> {"ViMEET - HACK"}</span>
+              <span className="hackathon"> {"Hack-To-Crack"}</span>
               <br />
               {/* <p className="tag1"> A National Level 40 Hour Hackathon</p> */}
               {/* <span className="hackathon">Hackathon</span> */}

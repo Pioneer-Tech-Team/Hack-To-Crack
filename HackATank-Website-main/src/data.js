@@ -65,6 +65,11 @@ export const teamData = [
         position: "Professor - DBMS",
         image: "/images/nandhashree.webp",
     },
+    {
+        name: "Mr. John Doe 7",
+        position: "Professor - AIML",
+        image: "/images/nandhashree.webp",
+    },
 ];
 
 export const judgesData = [

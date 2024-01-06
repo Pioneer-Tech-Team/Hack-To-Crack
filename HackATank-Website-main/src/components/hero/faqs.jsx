@@ -63,7 +63,7 @@ const faqs = () => {
 
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is “Vimeet Hack”?
+              What is “Hack To Crack”?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
@@ -158,7 +158,7 @@ const faqs = () => {
           </div>
           <div className="faqs-content" onClick={handleArrow}>
             <h1 className="faqs-content-title">
-              What is the team size to participate in the ViMEET HACK?
+              What is the team size to participate in the Hack To Crack?
               <ChevronRightIcon
                 style={styles.container}
                 className="faqs-arrow"
