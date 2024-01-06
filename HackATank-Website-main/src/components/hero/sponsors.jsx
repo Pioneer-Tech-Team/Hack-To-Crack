@@ -5,6 +5,7 @@ import Contact from "./contact";
 import Faqs from "./faqs";
 import Convener from "./convener";
 import Coordinators from "./coordinators";
+import Team from "./team";
 const sponsors = () => {
   return (
     <React.Fragment>
@@ -33,6 +34,7 @@ const sponsors = () => {
         <Contact />
         <Convener />
         <Coordinators />
+        <Team />
       </div>
     </React.Fragment>
   );
