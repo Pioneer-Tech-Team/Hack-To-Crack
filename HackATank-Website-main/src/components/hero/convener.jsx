@@ -1,5 +1,7 @@
 import React from "react";
 import "./convener.css";
+import { convenerData } from "../../data";
+
 const convener = () => {
   return (
     <React.Fragment>
@@ -10,18 +12,19 @@ const convener = () => {
         </div>
 
         <div className="convener-container">
-          <div className="convener-card">
-            <img
-              className="convener-card-image"
-              src="/images/senthilkumar.webp"
-              alt="Dr Ankush Pawar - HOD CSE AIML"
-            />
-            <h1 className="convener-name"> Dr. Ankush Pawar </h1>
-
-            <h1 className="convener-position">
-              Head Of Department - CSE AIML{" "}
-            </h1>
-          </div>
+          {convenerData.map((data, index) => {
+            return (
+              <div className="convener-card" key={index}>
+                <img
+                  className="convener-card-image"
+                  src={data.image}
+                  alt={data.name}
+                />
+                <h1 className="convener-name">{data.name}</h1>
+                <h1 className="convener-position">{data.position}</h1>
+              </div>
+            );
+          })}
         </div>
       </div>
     </React.Fragment>
