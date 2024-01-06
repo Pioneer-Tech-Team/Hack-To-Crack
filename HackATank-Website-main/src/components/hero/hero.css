@@ -4,26 +4,11 @@
   padding-top: 3vh;
   position: relative;
   isolation: isolate;
+  background-image: url("/images/topography.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
     padding: 0 2vw;
-  }
-}
-.parent_hero::after {
-  content: "";
-  position: absolute;
-  z-index: -2;
-  inset: 0;
-  opacity: 0.1;
-  background-image: url("/images/topography.svg");
-}
-@media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
-  .parent_hero::after {
-    content: "";
-    position: absolute;
-    z-index: -2;
-    inset: 0;
-    opacity: 0.1;
-    background-image: url("/images/topography.svg");
   }
 }
 
