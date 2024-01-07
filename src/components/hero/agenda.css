@@ -1,7 +1,7 @@
 .section2 {
   position: relative;
   isolation: isolate;
-  background-image: url("/images/topography.webp");
+  /* background-image: url("/images/topography.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
 }

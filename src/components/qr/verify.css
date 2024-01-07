@@ -40,7 +40,7 @@
   opacity: 0;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("/images/topography.svg");
+  /* background-image: url("/images/topography.svg"); */
 }
 .qr-parent:after {
   position: absolute;

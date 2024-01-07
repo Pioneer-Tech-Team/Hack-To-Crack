@@ -41,24 +41,24 @@ const about = () => {
         <div className="foundation">
           <div className="foundation-title " id="about-right">
             <img
-              src="/images/srm.webp"
+              src="/images/vimeet.png"
               alt="srm logo"
               className="about-srm-logo"
             />
             1st year of National Level Hackthon
             <img
-              src="/images/srmvec.webp"
+              src="/images/saam.png"
               alt="srmvec logo"
               className="about-srmvec-logo"
             />
           </div>
           <div className="foundation-description" id="about-left">
-          Vishwaniketan will provide quality engineering education to create 
+          Vishwaniketan will provide quality engineering education to create
           ‘Design Engineers’. Our engineers will positively impact their own
           lives and also business and society at large. They will do so by
           implementing the Project-Based Learning (PBL) approach
-          to solve human and technology problems. We aim to create 
-          socially aware entrepreneurs who will empower society with 
+          to solve human and technology problems. We aim to create
+          socially aware entrepreneurs who will empower society with
           relevant technology and business solution.
 .
           </div>
@@ -72,7 +72,7 @@ const about = () => {
           >
             <img
               className="about-srmvec-logo"
-              src="/images/srmvec.webp"
+              src="/images/saam.png"
               alt="srmvec logo"
             />
             About ViMEET
@@ -81,14 +81,14 @@ const about = () => {
               At ViMEET, we focus on the overall development of our students.
                A brief curriculum concerning the University of Mumbai prevails,
               however, we try to develop more innovative and interactive teaching-learning methods.
-              One of these methods which have a deep impact on VISHWANIKETAN 
+              One of these methods which have a deep impact on VISHWANIKETAN
               is Project-Based Learning (PBL).
-              We aim to help our students become aware and ready to work in the industry 
+              We aim to help our students become aware and ready to work in the industry
               as soon as they graduate.
               The PBL method has been proved to be very supportive to achieve this goal.
                Furthermore, we believe in giving the best exposure that undergraduates
-                can have through Project-Based Learning, international programs, and 
-                tie-ups with various global institutions. Research and development 
+                can have through Project-Based Learning, international programs, and
+                tie-ups with various global institutions. Research and development
                 also play an important role at ViMEET.
           </div>
         </div>
@@ -126,7 +126,7 @@ const about = () => {
               src="/images/whitehatians.webp"
               alt="whitehatians logo"
             />
-            About SAAM 
+            About SAAM
           </div>
           <div className="about-whitehatians-description" id="about-right">
             WhiteHatians Cyber Security club. The main goal of this club is to

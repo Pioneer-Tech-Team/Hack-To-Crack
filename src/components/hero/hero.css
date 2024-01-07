@@ -4,7 +4,6 @@
   padding-top: 3vh;
   position: relative;
   isolation: isolate;
-  background-image: url("/images/topography.webp");
   background-size: cover;
   background-repeat: no-repeat;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
@@ -14,7 +13,7 @@
 
 .tag-hero-mobile {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   gap: 1vw;
   position: relative;
   z-index: -1;
@@ -61,6 +60,10 @@
     font-weight: 600;
     gap: 1vw;
   }
+}
+.tag {
+  background: white;
+  padding: 4px;
 }
 .tag > div {
   display: flex;
@@ -144,7 +147,7 @@
 }
 .parent_hero .title1 .hackathon {
   position: relative;
-  font-family: liger;
+  font-family: Motorblock;
 }
 .parent_hero .title1 .hackathon::after {
   content: "";
@@ -154,7 +157,7 @@
   width: 0;
   left: 0;
   bottom: 1vh;
-  background: rgb(243, 158, 172, 0.7);
+  background: rgba(158, 164, 243, 0.7);
   animation: line 1s ease-in-out forwards;
 }
 @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {

@@ -130,10 +130,7 @@ const ContactCard = ({ person }) => {
 									</span>
 								</span>
 							</h2>
-							<h3
-								className="contact-card-options"
-								onClick={() => handlecontactOptions(".contact-card")}
-							>
+							<h3 className="contact-card-options" onClick={toggleContact}>
 								<KeyboardDoubleArrowLeftIcon
 									style={{
 										width: "20px",
