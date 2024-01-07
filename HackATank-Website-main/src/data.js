@@ -1,6 +1,6 @@
 export const coordinatorsData = [
     {
-        name: "Mr. John Doe",
+        name: "Mrs. Sneha Nimbare-Bamane ",
         position: "Professor - AIML",
         image: "/images/nandhashree.webp",
     },
@@ -18,20 +18,11 @@ export const coordinatorsData = [
 
 export const convenerData = [
     {
-        name: "Mr. John Doe",
-        position: "Professor - AIML",
+        name: "Dr Ankush B Pawar",
+        position: "Head Od Department - CSE AIML",
         image: "/images/nandhashree.webp",
     },
-    {
-        name: "Mr. First Last",
-        position: "Professor - DBMS",
-        image: "/images/nandhashree.webp",
-    },
-    {
-        name: "Mr. John Doe",
-        position: "Professor - DBMS",
-        image: "/images/nandhashree.webp",
-    },
+    
 ];
 
 export const teamData = [
