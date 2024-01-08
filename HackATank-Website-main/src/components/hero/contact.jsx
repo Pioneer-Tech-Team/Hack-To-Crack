@@ -16,6 +16,22 @@ const people = [
 		email: "email@example.com",
 		instagram: "instagram",
 	},
+  {
+		name: "Sahebraju P",
+		image: "/images/shree.webp",
+		description: "President - SAAM",
+		phone: "9999999999",
+		email: "email@example.com",
+		instagram: "instagram",
+	},
+  {
+		name: "Sahebraju P",
+		image: "/images/shree.webp",
+		description: "President - SAAM",
+		phone: "9999999999",
+		email: "email@example.com",
+		instagram: "instagram",
+	},
 ];
 
 const ContactCard = ({ person }) => {
