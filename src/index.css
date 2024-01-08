@@ -99,10 +99,15 @@
   font-family: disamber;
   src: url(/fonts/Disamber.ttf);
 }
+@font-face {
+  font-family: Motorblock;
+  src: url(/fonts/Motorblock.ttf);
+}
 html,
 body {
   overflow-x: hidden;
   scroll-behavior: smooth;
+  color: white;
 }
 
 * {
