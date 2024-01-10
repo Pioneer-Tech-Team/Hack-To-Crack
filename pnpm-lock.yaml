@@ -23,6 +23,9 @@ dependencies:
   '@mui/styled-engine-sc':
     specifier: ^5.12.0
     version: 5.14.12(styled-components@6.1.6)
+  '@splidejs/react-splide':
+    specifier: ^0.7.12
+    version: 0.7.12
   '@tsparticles/react':
     specifier: ^3.0.0
     version: 3.0.0(@tsparticles/engine@3.0.3)(react-dom@18.2.0)(react@18.2.0)
@@ -1568,6 +1571,16 @@ packages:
       '@types/estree': 1.0.5
       estree-walker: 2.0.2
       picomatch: 2.3.1
+    dev: false
+
+  /@splidejs/react-splide@0.7.12:
+    resolution: {integrity: sha512-UfXH+j47jsMc4x5HA/aOwuuHPqn6y9+ZTNYPWDRD8iLKvIVMZlzq2unjUEvyDAU+TTVPZOXkG2Ojeoz0P4AkZw==}
+    dependencies:
+      '@splidejs/splide': 4.1.4
+    dev: false
+
+  /@splidejs/splide@4.1.4:
+    resolution: {integrity: sha512-5I30evTJcAJQXt6vJ26g2xEkG+l1nXcpEw4xpKh0/FWQ8ozmAeTbtniVtVmz2sH1Es3vgfC4SS8B2X4o5JMptA==}
     dev: false
 
   /@svgr/babel-plugin-add-jsx-attribute@8.0.0(@babel/core@7.23.6):

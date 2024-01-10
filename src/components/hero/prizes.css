@@ -1,0 +1,38 @@
+.prizes {
+	position: relative;
+	margin: 4rem;
+}
+.prizes-title {
+	font-size: 45px;
+	margin-left: 6vw;
+	font-family: "russo one";
+	letter-spacing: 2px;
+	font-weight: 900;
+	padding-bottom: 5vh;
+	display: flex;
+	align-items: center;
+	gap: 2vw;
+}
+
+.cards {
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    gap: 1rem;
+
+	@media all and (max-width: 768px) and (orientation: portrait) {
+        grid-template-columns: 1fr;
+    }
+}
+
+.card {
+    padding: 1rem;
+    background-color: rgba(53, 32, 79, 0.5);
+    border-radius: 5px;
+    display: grid;
+    place-items: center;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

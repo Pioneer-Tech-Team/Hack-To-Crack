@@ -1,0 +1,21 @@
+.photos {
+	position: relative;
+	margin: 4rem;
+}
+.photos-title {
+	font-size: 45px;
+	margin-left: 6vw;
+	font-family: "russo one";
+	letter-spacing: 2px;
+	font-weight: 900;
+	padding-bottom: 5vh;
+	display: flex;
+	align-items: center;
+	gap: 2vw;
+}
+
+.photo {
+    width: 100%;
+    margin-top: 0.5rem;
+    vertical-align: middle;
+}

@@ -14,6 +14,8 @@ import { ReactComponent as ArrowRightWhite } from "../../assets/arrow-right-whit
 import { ReactComponent as ArrowRightBlack } from "../../assets/arrow-right-black.svg";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
+import { Photos } from "./photos";
+import { Prizes } from "./prizes";
 
 const hero = () => {
 	const handleRegisterClick = () => {
@@ -331,7 +333,11 @@ const hero = () => {
 			</div>
 			<Agenda />
 			<div className="bg-sep"></div>
+			<Photos />
+			<div className="bg-sep"></div>
 			<Schedule />
+			<div className="bg-sep"></div>
+			<Prizes />
 			<div className="bg-sep"></div>
 			<Sponsors />
 			<Footer />
