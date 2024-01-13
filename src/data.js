@@ -1,17 +1,17 @@
 export const coordinatorsData = [
     {
-        name: "Mrs. Sneha Nimbare-Bamane ",
+        name: "Mrs. Sneha Nimbare ",
         position: "Professor - AIML",
         image: "/images/nandhashree.webp",
     },
     {
-        name: "Mr. First Last",
-        position: "Professor - DBMS",
+        name: "Mrs. Ashwini Garole",
+        position: "Professor - AIML",
         image: "/images/nandhashree.webp",
     },
     {
-        name: "Mr. John Doe",
-        position: "Professor - DBMS",
+        name: "Mr. Mahesh Sutar",
+        position: "Professor - AIML",
         image: "/images/nandhashree.webp",
     },
 ];
