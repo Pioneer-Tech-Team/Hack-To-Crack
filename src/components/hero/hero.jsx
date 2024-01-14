@@ -276,14 +276,32 @@ const hero = () => {
 						</div>
 						{/* -------------------------- Column 3 * ---------------------------------- */}
 						<div className="col3 animated-div">
-							<div className="flex justify-items-start">
-								<h3 className="text7">Problem Statements</h3>
+							<div
+								style={{
+									display: "flex",
+									justifyContent: "center",
+									flexDirection: "column",
+								}}
+							>
+								<h3 className="text7">Domains</h3>
+								<h3 className="text8" style={{ margin: 0, cursor: "initial" }}>
+									(Problem Statements)
+								</h3>
 							</div>
 							<p className="text8" onClick={() => handleCardClicks("/set1")}>
-								Collection 1 <ArrowRightBlack className="arrow-right-icon" />
+								Domain 1 <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set2")}>
-								Collection 2 <ArrowRightBlack className="arrow-right-icon" />
+								Domain 2 <ArrowRightBlack className="arrow-right-icon" />
+							</p>
+							<p className="text9" onClick={() => handleCardClicks("/set3")}>
+								Domain 3 <ArrowRightBlack className="arrow-right-icon" />
+							</p>
+							<p className="text9" onClick={() => handleCardClicks("/set4")}>
+								Domain 4 <ArrowRightBlack className="arrow-right-icon" />
+							</p>
+							<p className="text9" onClick={() => handleCardClicks("/set5")}>
+								Domain 5 <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 						</div>
 						{/* -------------------------- Column 4  ---------------------------------- */}
