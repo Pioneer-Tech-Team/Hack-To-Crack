@@ -1,6 +1,6 @@
 export const coordinatorsData = [
     {
-        name: "Mrs. Sneha Nimbare ",
+        name: "Ms. Sneha Nimbare ",
         position: "Professor - AIML",
         image: "/images/nandhashree.webp",
     },
