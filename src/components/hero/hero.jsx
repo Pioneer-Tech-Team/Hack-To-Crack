@@ -273,6 +273,10 @@ const hero = () => {
 								Judge Panel
 								<ArrowRightWhite className="arrow-right-icon" />
 							</p>
+							<p className="text6" onClick={() => handleCardClicks("/team")}>
+								Team
+								<ArrowRightWhite className="arrow-right-icon" />
+							</p>
 						</div>
 						{/* -------------------------- Column 3 * ---------------------------------- */}
 						<div className="col3 animated-div">

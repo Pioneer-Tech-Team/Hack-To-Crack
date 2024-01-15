@@ -10,6 +10,9 @@ import {
   Guildelines,
   Set1,
   Set2,
+  Set3,
+  Set4,
+  Set5,
   Judges,
   About,
   Verify,
@@ -17,6 +20,7 @@ import {
 } from "./components";
 
 import ReactGA from "react-ga";
+import Team from "./components/hero/team.jsx";
 ReactGA.initialize("K6F7N5MR4K");
 ReactGA.pageview(window.location.pathname + window.location.search);
 
@@ -69,6 +73,33 @@ ReactDOM.createRoot(document.getElementById("root")).render(
           }
         />
         <Route
+          path="/set3"
+          element={
+            <div className="set2-bg">
+              <Navbar />
+              <Set3 />
+            </div>
+          }
+        />
+        <Route
+          path="/set4"
+          element={
+            <div className="set1-bg">
+              <Navbar />
+              <Set4 />
+            </div>
+          }
+        />
+        <Route
+          path="/set5"
+          element={
+            <div className="set2-bg">
+              <Navbar />
+              <Set5 />
+            </div>
+          }
+        />
+        <Route
           path="/set1"
           element={
             <div className="set1-bg">
@@ -92,6 +123,15 @@ ReactDOM.createRoot(document.getElementById("root")).render(
             <div>
               <Navbar />
               <Judges />
+            </div>
+          }
+        />
+        <Route
+          path="/team"
+          element={
+            <div>
+              <Navbar />
+              <Team />
             </div>
           }
         />

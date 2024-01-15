@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "./projects.css";
 import ReactGA from "react-ga";
 
-const set2 = () => {
+const set4 = () => {
   useEffect(() => {
     document.title = "Projects - Set 2";
   });
@@ -224,4 +224,4 @@ const set2 = () => {
   );
 };
 
-export default set2;
+export default set4;
