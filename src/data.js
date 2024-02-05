@@ -2,12 +2,12 @@ export const coordinatorsData = [
     {
         name: "Ms. Sneha Nimbare ",
         position: "Professor - AIML",
-        image: "/images/nandhashree.webp",
+        image: "/images/sneha.jpeg",
     },
     {
         name: "Mrs. Ashwini Garole",
         position: "Professor - AIML",
-        image: "/images/nandhashree.webp",
+        image: "/images/ashwini.jpeg",
     },
     {
         name: "Mr. Mahesh Sutar",
@@ -20,7 +20,7 @@ export const convenerData = [
     {
         name: "Dr Ankush B Pawar",
         position: "Head Od Department - CSE AIML",
-        image: "/images/nandhashree.webp",
+        image: "/images/ankush.jpeg",
     },
     
 ];

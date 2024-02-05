@@ -3,7 +3,7 @@ import "./prizes.css";
 export function Prizes() {
 	return (
 		<div className="prizes">
-			<h1 className="prizes-title">Prizes</h1>
+			<h1 className="prizes-title">Prizes (1.5L prize pool)</h1>
 			<div className="cards">
 				<div className="card">
                     <img src="/images/prizes/1.png" alt="Gold medal" width={256} />

@@ -2,8 +2,10 @@
   font-family: "oswald";
   color: white;
   padding: 1vh 1vw 1vh 1vw;
-  position: sticky;
-  z-index: 99;
+  /* position: static; */
+  position: fixed;
+  width: 100%;
+  z-index: 999;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
     display: none;
   }
@@ -22,8 +24,8 @@
   position: absolute;
   border-left: 4px solid rgb(0, 116, 251);
   height: 0vh;
-  top: 6vh;
-  left: 2.2vw;
+  top: 5vh;
+  left: 2.4vw;
 }
 @keyframes socialsAnim {
   0% {
@@ -41,7 +43,7 @@
   z-index: 99;
   color: black;
   top: 2vh;
-  left: 0.8vw;
+  left: 1.1vw;
   opacity: 0;
   animation: instagram 0.5s 0.3s linear forwards;
 }
@@ -50,7 +52,7 @@
   z-index: 99;
   color: black;
   top: 2vh;
-  left: 0.8vw;
+  left: 1.1vw;
   transform: translateY(9.5vh);
   opacity: 0;
   animation: facebook 0.3s 0.8s linear forwards;
@@ -60,7 +62,7 @@
   color: black;
   z-index: 99;
   top: 2vh;
-  left: 0.8vw;
+  left: 1.1vw;
   transform: translateY(15.5vh);
   opacity: 0;
   animation: youtube 0.3s 1.3s linear forwards;
@@ -70,7 +72,7 @@
   color: black;
   z-index: 99;
   top: 8vh;
-  left: 0.8vw;
+  left: 1.1vw;
   opacity: 0;
   transform: translateY(15.5vh);
   animation: youtube 0.3s 1.8s linear forwards;
@@ -103,7 +105,8 @@
   align-items: center;
   justify-content: space-between;
   background-color: black;
-  padding: 0.3vw;
+  /* padding: 0.3vw; */
+  padding: 0.5vw;
   border-radius: 1vw;
 }
 .components ul {
@@ -174,6 +177,7 @@
 .parent-navbar-mobile {
   margin: 0.5vh 1vw;
   position: relative;
+  z-index: 999;
   padding: 0.5vh 1vw;
   font-family: Oswald;
   color: white;

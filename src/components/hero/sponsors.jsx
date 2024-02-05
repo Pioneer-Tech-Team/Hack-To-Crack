@@ -14,6 +14,7 @@ const sponsors = () => {
           Sponsor
           <img src="/images/rrr.webp" alt="arrow-logo" />
         </h1>
+      <p className="sponsor-tag golden"><span href="#" >Golden</span></p>
         <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
@@ -28,6 +29,82 @@ const sponsors = () => {
               </h1>
             </div>{" "}
             <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
+      <p className="sponsor-tag silver"><span href="#" >Silver</span></p>
+        <div className="sponsors-container">
+          <div className="sponsors-border">
+            <div>
+              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+            </div>
+            <div className="sponsors-container-sub">
+              <h1 className="sponsor-title">
+                <a href="https://hebesec.com/" target="_blank">
+                  {" "}
+                  Hebesec Technologies{" "}
+                </a>
+              </h1>
+            </div>{" "}
+            <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
+      <p className="sponsor-tag bronze"><span href="#" >Bronze</span></p>
+        <div className="sponsors-container">
+          <div className="sponsors-border">
+            <div>
+              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+            </div>
+            <div className="sponsors-container-sub">
+              <h1 className="sponsor-title">
+                <a href="https://hebesec.com/" target="_blank">
+                  {" "}
+                  Hebesec Technologies{" "}
+                </a>
+              </h1>
+            </div>{" "}
+            <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
+
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr" }}>
+          <div>
+            <p className="sponsor-tag"><span>Website Sponsor</span></p>
+            <div className="sponsors-container">
+          <div className="sponsors-border">
+            <div>
+              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+            </div>
+            <div className="sponsors-container-sub">
+              <h1 className="sponsor-title">
+                <a href="https://hebesec.com/" target="_blank">
+                  {" "}
+                  Hebesec Technologies{" "}
+                </a>
+              </h1>
+            </div>{" "}
+            <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
+          </div>
+
+          <div>
+            <p className="sponsor-tag"><span>T-shirt Sponsor</span></p>
+            <div className="sponsors-container">
+          <div className="sponsors-border">
+            <div>
+              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+            </div>
+            <div className="sponsors-container-sub">
+              <h1 className="sponsor-title">
+                <a href="https://hebesec.com/" target="_blank">
+                  {" "}
+                  Hebesec Technologies{" "}
+                </a>
+              </h1>
+            </div>{" "}
+            <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
           </div>
         </div>
         <Faqs />

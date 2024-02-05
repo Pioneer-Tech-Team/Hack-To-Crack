@@ -53,7 +53,7 @@ const Navbar = () => {
       action: "click",
       label: "register",
     });
-    window.open("https://forms.gle/mqHSf1kpoTUiMURH6");
+    window.open("https://forms.gle/6yRJWopTvMdHRBE96");
   };
   const handleScroll = (id) => {
     ReactGA.event({
@@ -170,7 +170,7 @@ const Navbar = () => {
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
-                <a href="https://forms.gle/mqHSf1kpoTUiMURH6" target="_blank">
+                <a href="https://forms.gle/6yRJWopTvMdHRBE96" target="_blank">
                   Register
                 </a>
               </h2>

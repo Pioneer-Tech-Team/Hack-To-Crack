@@ -12,14 +12,14 @@ export function Photos() {
 					<SplideSlide>
 						<img
 							className="photo"
-							src="/images/group-photo1.jpeg"
+							src="/images/group-photo2.jpeg"
 							alt="Image 1"
 						/>
 					</SplideSlide>
 					<SplideSlide>
 						<img
 							className="photo"
-							src="/images/group-photo2.jpeg"
+							src="/images/group-photo1.jpeg"
 							alt="Image 2"
 						/>
 					</SplideSlide>
