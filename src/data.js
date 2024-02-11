@@ -19,7 +19,7 @@ export const coordinatorsData = [
 export const convenerData = [
     {
         name: "Dr Ankush B Pawar",
-        position: "Head Od Department - CSE AIML",
+        position: "Head Of Department - CSE AIML",
         image: "/images/ankush.jpeg",
     },
     
