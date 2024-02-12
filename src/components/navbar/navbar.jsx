@@ -44,7 +44,7 @@ const Navbar = () => {
       label: "Youtube",
     });
 
-    window.open("https://discord.gg/w77zzjVkEB?event=1141717757382107197");
+    window.open("https://discord.com/invite/8EhfXS8T");
   };
   const handleRegisterClick = () => {
     ReactGA.event({
