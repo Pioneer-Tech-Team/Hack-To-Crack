@@ -16,8 +16,8 @@ const Navbar = () => {
       action: "click",
       label: "Instagram",
     });
-    window.open("https://www.instagram.com/srmveccsisb");
-    window.open("https://www.instagram.com/whitehatians");
+    window.open("https://instagram.com/Saam.Vimeet");
+    window.open("https://www.instagram.com/hack_to_crack");
   };
   const handleFb = () => {
     ReactGA.event({
@@ -25,8 +25,8 @@ const Navbar = () => {
       action: "click",
       label: "Facebook",
     });
-    window.open("https://www.facebook.com/srmveccsisb");
-    window.open("https://www.facebook.com/@whitehatians");
+    window.open("https://www.facebook.com/");
+    window.open("https://www.facebook.com/@");
   };
   const handleYt = () => {
     ReactGA.event({
@@ -34,8 +34,7 @@ const Navbar = () => {
       action: "click",
       label: "Youtube",
     });
-    window.open("https://www.youtube.com/@SRMVECCSIAN");
-    window.open("https://www.youtube.com/@whitehatians");
+    window.open("https://www.youtube.com/@SAAM_VIMEET");
   };
 
   const handleDiscord = () => {

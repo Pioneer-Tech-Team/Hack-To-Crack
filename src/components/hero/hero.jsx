@@ -342,8 +342,8 @@ const hero = () => {
 							</h3>
 							<div className="flex items-start justify-between flex-col">
 								<p className="text14">
-									SAAM- STUDENT ASSOCIATION OF ARTIFICIAL INTELLIGENCE AND
-									MACHINE LEARNINNG{" "}
+									SAAM (STUDENT ASSOCIATION OF ARTIFICIAL INTELLIGENCE AND
+									MACHINE LEARNINNG){" "}
 								</p>
 								<p className="text15">PIONEERTECH </p>
 								<div className="round2"></div>
