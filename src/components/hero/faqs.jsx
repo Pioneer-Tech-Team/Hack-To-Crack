@@ -70,11 +70,10 @@ const faqs = () => {
               />
             </h1>
             <p className="faqs-content-description">
-              Hack-A-Tank is the first 24-hour national-level hackathon
-              organized by the SRM Valliammai engineering college in
-              collaboration with Whitehatians – Club of the Department of Cyber
-              Security and the Student Branch of Computer Society of India (CSI-
-              SB).
+              Hack-To-Crack is the 36-hour national-level hackathon
+              organized by the Vishwaniketan's Institute of Management
+               Entrepreneurship and Engineering Technology (ViMEET) – 
+               Students Association Of Artificial Intelligence & Machine Learning (SAAM).
             </p>
           </div>
 
