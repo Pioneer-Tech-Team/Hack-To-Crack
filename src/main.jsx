@@ -21,6 +21,7 @@ import {
 
 import ReactGA from "react-ga";
 import Team from "./components/hero/team.jsx";
+import { Background } from "./components/hero/background.jsx";
 ReactGA.initialize("K6F7N5MR4K");
 ReactGA.pageview(window.location.pathname + window.location.search);
 
@@ -41,6 +42,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
           element={
             <div className="bg">
               <Navbar />
+              <Background />
               <Hero />
             </div>
           }

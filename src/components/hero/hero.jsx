@@ -1,8 +1,7 @@
 import "./hero.css";
-import React, { useEffect, useState, useMemo } from "react";
+import React, { useEffect, useState } from "react";
 import ReactGA from "react-ga";
 import KeyboardDoubleArrowRightSharpIcon from "@mui/icons-material/KeyboardDoubleArrowRightSharp";
-import VanillaTilt from "vanilla-tilt";
 import Agenda from "./agenda";
 import Schedule from "./schedule";
 import Sponsors from "./sponsors";
@@ -12,10 +11,9 @@ import { ReactComponent as Info } from "../../assets/info.svg";
 import { ReactComponent as Location } from "../../assets/location.svg";
 import { ReactComponent as ArrowRightWhite } from "../../assets/arrow-right-white.svg";
 import { ReactComponent as ArrowRightBlack } from "../../assets/arrow-right-black.svg";
-import Particles, { initParticlesEngine } from "@tsparticles/react";
-import { loadSlim } from "@tsparticles/slim";
 import { Photos } from "./photos";
 import { Prizes } from "./prizes";
+import VanillaTilt from "vanilla-tilt";
 
 const hero = () => {
 	const handleRegisterClick = () => {
@@ -93,70 +91,8 @@ const hero = () => {
 		};
 	}, []);
 
-	const [init, setInit] = useState(false);
-
-	useEffect(() => {
-		initParticlesEngine(async (engine) => {
-			await loadSlim(engine);
-		}).then(() => {
-			setInit(true);
-		});
-	}, []);
-
-	const options = useMemo(
-		() => ({
-			background: {
-				image:
-					"radial-gradient( circle 815px at 23.4% -21.8%,  rgba(9,29,85,1) 0.2%, rgba(0,0,0,1) 100.2% )",
-			},
-			fpsLimit: 120,
-			particles: {
-				color: {
-					value: "#ffffff",
-				},
-				links: {
-					color: "#ffffff",
-					distance: 150,
-					enable: true,
-					opacity: 0.5,
-					width: 1,
-				},
-				move: {
-					direction: "none",
-					enable: true,
-					outModes: {
-						default: "bounce",
-					},
-					random: false,
-					speed: 2,
-					straight: false,
-				},
-				number: {
-					density: {
-						enable: true,
-					},
-					value: 80,
-				},
-				opacity: {
-					value: 0.5,
-				},
-				shape: {
-					type: "circle",
-				},
-				size: {
-					value: { min: 3, max: 8 },
-				},
-			},
-			detectRetina: true,
-		}),
-		[]
-	);
-
 	return (
 		<React.Fragment>
-			<div style={{ position: "absolute" }}>
-				{init ? <Particles id="tsparticles" options={options} /> : <></>}
-			</div>
 			<div className="parent_hero">
 				{/* <div className="progress_bar"></div> */}
 				<div className=" tag-hero-mobile">
