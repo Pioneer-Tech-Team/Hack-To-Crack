@@ -10,7 +10,7 @@ const footer = () => {
         <p className="copyright">
           Copyrights
           <Copyright className="copyright-icon" />
-          {currentYear} - <span style={{opacity:"0.5"}}> Build upon <a href="https://github.com/shadowctrl/HackATank-Website" target="_blank" rel="noopener noreferrer"> GitHub</a></span>
+          {currentYear} - <span style={{opacity:"0.5"}}> Build upon <a href="made with love by Hack_A_Tank" target="_blank" rel="noopener noreferrer"> GitHub</a></span>
         </p>
       </div>
     </React.Fragment>
