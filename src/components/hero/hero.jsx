@@ -189,22 +189,22 @@ const hero = () => {
 								</h3>
 							</div>
 							<p className="text8" onClick={() => handleCardClicks("/set1")}>
-								1 Blockchain and Cybersecurity <ArrowRightBlack className="arrow-right-icon" />
+								Blockchain and Cybersecurity <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set2")}>
-								2 Smart Education <ArrowRightBlack className="arrow-right-icon" />
+								Smart Education <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set3")}>
-								3 Application of AI <ArrowRightBlack className="arrow-right-icon" />
+								Application of AI <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set4")}>
-								4 Smart Automation <ArrowRightBlack className="arrow-right-icon" />
+								Smart Automation <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set5")}>
-								5 Health Care <ArrowRightBlack className="arrow-right-icon" />
+								Health Care <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set6")}>
-								6 Enviroment <ArrowRightBlack className="arrow-right-icon" />
+								Enviroment <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 						</div>
 					</div>
