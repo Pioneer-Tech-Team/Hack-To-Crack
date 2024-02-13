@@ -127,7 +127,7 @@ const hero = () => {
 						<div className="title1">
 							<span className="hackathon">Hack To Crack</span>
 							<br />
-							{/* <p className="tag1"> A National Level 40 Hour Hackathon</p> */}
+							{/* <p className="tag1"> A National Level 36 Hour Hackathon</p> */}
 							{/* <span className="hackathon">Hackathon</span> */}
 							<p className="description">
 								National <span> Level 40 hour Hackathon </span>
