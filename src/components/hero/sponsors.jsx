@@ -111,7 +111,7 @@ const sponsors = () => {
         <Contact />
         <Convener />
         <Coordinators />
-        <Team />
+        {/* <Team /> */}
       </div>
     </React.Fragment>
   );

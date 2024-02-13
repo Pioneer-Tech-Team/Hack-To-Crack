@@ -39,7 +39,7 @@ const hero = () => {
 		seconds: 0,
 	});
 	const handleCountdown = () => {
-		const countDate = new Date("February 13, 2024 10:00:00").getTime();
+		const countDate = new Date("February 14, 2024 17:00:00").getTime();
 		const now = new Date().getTime();
 		const diff = countDate - now;
 		{

@@ -99,7 +99,7 @@ const Navbar = () => {
                   }}
                 />
               </div>
-              <div className="fb">
+              {/* <div className="fb">
                 <SocialIcon
                   onClick={handleFb}
                   network="facebook"
@@ -108,9 +108,9 @@ const Navbar = () => {
                     width: "3vw",
                   }}
                 />
-              </div>
+              </div> */}
 
-              <div className="yt">
+              <div className="fb">
                 <SocialIcon
                   onClick={handleYt}
                   network="youtube"
@@ -120,7 +120,7 @@ const Navbar = () => {
                   }}
                 />
               </div>
-              <div className="discord-icon">
+              <div className="yt">
                 <SocialIcon
                   onClick={handleDiscord}
                   network="discord"

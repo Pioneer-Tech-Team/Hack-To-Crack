@@ -10,7 +10,7 @@ import "./contact.css";
 const people = [
 	{
 		name: "Sahebraju P",
-		image: "/images/shree.webp",
+		image: "/images/team/SAHEBRAJU PEERZADE.jpg",
 		description: "President - SAAM (Event Head)",
 		phone: "72189 61480",
 		email: "hasebpeerzade@gmail.com",
@@ -18,7 +18,7 @@ const people = [
 	},
   {
 		name: "Pratham Dhas",
-		image: "/images/shree.webp",
+		image: "./images/team/PRATHAM DHAS.jpg",
 		description: "Event Head",
 		phone: "9699931057",
 		email: "pratham.dhas@gmail.com",
@@ -26,7 +26,7 @@ const people = [
 	},
   {
 		name: "Suraj Nayak",
-		image: "/images/shree.webp",
+		image: "/images/team/SURAJ NAYAK.jpg",
 		description: "President - TPO (Event Head)",
 		phone: "9137500132",
 		email: "nayaksuraj.official@gmail.com",
@@ -44,7 +44,7 @@ const ContactCard = ({ person }) => {
 			<div className="contact-container">
 				<div className="contact-card" ref={card}>
 					<div className="contact-card-front">
-						<img src="/images/shree.webp" alt={person.name} />
+						<img src={person.image} alt={person.name} />
 						<div className="contact-card-details">
 							<h1 className="contact-card-name">{person.name}</h1>
 							<h2 className="contact-card-description">{person.description}</h2>
