@@ -18,13 +18,13 @@ const sponsors = () => {
         <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
-              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+              <img src="/images/pioneertech.png" alt="Pioneertech" />
             </div>
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="https://pioneertech.net.in/" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Pioneertech{" "}
                 </a>
               </h1>
             </div>{" "}
@@ -35,13 +35,13 @@ const sponsors = () => {
         <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
-              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+              <img src="/images/pioneertech.png" alt="Pioneertech" />
             </div>
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="https://pioneertech.net.in/" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Pioneertech{" "}
                 </a>
               </h1>
             </div>{" "}
@@ -52,13 +52,13 @@ const sponsors = () => {
         <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
-              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+              <img src="/images/pioneertech.png" alt="Pioneertech" />
             </div>
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="https://pioneertech.net.in/" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Pioneertech{" "}
                 </a>
               </h1>
             </div>{" "}
@@ -72,13 +72,13 @@ const sponsors = () => {
             <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
-              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+              <img src="/images/pioneertech.png" alt="Pioneertech" />
             </div>
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="https://pioneertech.net.in/" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Pioneertech{" "}
                 </a>
               </h1>
             </div>{" "}
@@ -92,13 +92,13 @@ const sponsors = () => {
             <div className="sponsors-container">
           <div className="sponsors-border">
             <div>
-              <img src="/images/hebesec.webp" alt="Hebesec Technologies" />
+              <img src="/images/pioneertech.png" alt="Pioneertech" />
             </div>
             <div className="sponsors-container-sub">
               <h1 className="sponsor-title">
-                <a href="https://hebesec.com/" target="_blank">
+                <a href="https://pioneertech.net.in/" target="_blank">
                   {" "}
-                  Hebesec Technologies{" "}
+                  Pioneertech{" "}
                 </a>
               </h1>
             </div>{" "}

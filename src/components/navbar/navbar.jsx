@@ -86,8 +86,8 @@ const Navbar = () => {
       <div className="parent">
         <div className="components">
           <div className="title" onClick={() => window.open("/", "_self")}>
-            <img src="/images/diamond.webp" className="logo" alt="Logo" />
-            Hackathon
+            <img src="/images/h2cbrain.jpeg" className="logo" alt="Logo" />
+            Hack-To-Crack
             <div className="socials">
               <div className="insta">
                 <SocialIcon

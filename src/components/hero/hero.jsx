@@ -174,46 +174,6 @@ const hero = () => {
 					</div>
 
 					<div className="right_side">
-						{/* -------------------------- Column 1 * ---------------------------------- */}
-
-						<div className="col1 animated-div">
-							<h3 className="text">
-								<div>
-									<div>
-										<div> 8</div> <div> th</div>{" "}
-									</div>{" "}
-									January
-								</div>
-								<Calender className="calender-icon" />
-							</h3>
-							<p
-								className="text2"
-								onClick={() => handleCardClicks("/guidelines")}
-							>
-								Guidelines <ArrowRightWhite className="arrow-right-icon" />
-							</p>
-							<p className="text3" onClick={() => handleCardClicks("/events")}>
-								Events <ArrowRightWhite className="arrow-right-icon" />
-							</p>
-						</div>
-						{/* -------------------------- Column 2 * ---------------------------------- */}
-						<div className="col2 animated-div">
-							<h3 className="text4">
-								Information Details <Info className="info-icon" />
-							</h3>
-							<p className="text5" onClick={() => handleCardClicks("/about")}>
-								About
-								<ArrowRightWhite className="arrow-right-icon" />
-							</p>
-							<p className="text6" onClick={() => handleCardClicks("/judges")}>
-								Judge Panel
-								<ArrowRightWhite className="arrow-right-icon" />
-							</p>
-							<p className="text6" onClick={() => handleCardClicks("/team")}>
-								Team
-								<ArrowRightWhite className="arrow-right-icon" />
-							</p>
-						</div>
 						{/* -------------------------- Column 3 * ---------------------------------- */}
 						<div className="col3 animated-div">
 							<div
@@ -243,53 +203,96 @@ const hero = () => {
 							<p className="text9" onClick={() => handleCardClicks("/set5")}>
 								Domain 5 <ArrowRightBlack className="arrow-right-icon" />
 							</p>
-						</div>
-						{/* -------------------------- Column 4  ---------------------------------- */}
-						<div
-							className="col4 animated-div"
-							onClick={() =>
-								window.open(
-									"https://www.google.com/maps/d/u/0/viewer?mid=1GK1BeW3q1MbGuDaMUXa5F_GpHWo&hl=en&ll=18.820244%2C73.27026999999998&z=17"
-								)
-							}
-						>
-							<h3 className="text10">
-								Venue <Location className="location-icon" />
-							</h3>
-							<div className="flex flex-col ">
-								<p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
-									Vishwaniketan's Institute of Management Entrepreneurship and
-									Engineering Technology
-								</p>
-								{/* <p className="text-white  text-[0.8vw] ">
-                  National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
-                  Nadu - 603203
-                </p> */}
-								<div className="round"></div>
-							</div>
-						</div>
-						{/* -------------------------- Column 5  ---------------------------------- */}
-						<div className="col5 "></div>
-						{/* -------------------------- Column 6  ---------------------------------- */}
-						<div className="col6 animated-div">
-							<h3 className="text13">
-								Organized & Managed By
-								<div className="flex justify-center items-center gap-1"></div>
-							</h3>
-							<div className="flex items-start justify-between flex-col">
-								<p className="text14">
-									SAAM (STUDENT ASSOCIATION OF ARTIFICIAL INTELLIGENCE AND
-									MACHINE LEARNINNG){" "}
-								</p>
-								<p className="text15">PIONEERTECH </p>
-								<div className="round2"></div>
-							</div>
+							<p className="text9" onClick={() => handleCardClicks("/set6")}>
+								Domain 6 <ArrowRightBlack className="arrow-right-icon" />
+							</p>
 						</div>
 					</div>
 				</section>
 				{/* -------------------------- Page 2 -------------------------- */}
 			</div>
 			<Agenda />
+			<div className="bg-sep"></div>
+			<div className="cards" style={{ padding: "1rem" }}>
+				{/* -------------------------- Column 1 * ---------------------------------- */}
+
+				<div className="col1 animated-div">
+					<h3 className="text">
+						<div>
+							<div>
+								<div> 14</div> <div> th</div>{" "}
+							</div>{" "}
+							February
+						</div>
+						<Calender className="calender-icon" />
+					</h3>
+					<p className="text2" onClick={() => handleCardClicks("/guidelines")}>
+						Guidelines <ArrowRightWhite className="arrow-right-icon" />
+					</p>
+					<p className="text3" onClick={() => handleCardClicks("/events")}>
+						Events <ArrowRightWhite className="arrow-right-icon" />
+					</p>
+				</div>
+				{/* -------------------------- Column 2 * ---------------------------------- */}
+				<div className="col2 animated-div">
+					<h3 className="text4">
+						Information Details <Info className="info-icon" />
+					</h3>
+					{/* <p className="text5" onClick={() => handleCardClicks("/about")}>
+						About
+						<ArrowRightWhite className="arrow-right-icon" />
+					</p> */}
+					<p className="text6" onClick={() => handleCardClicks("/judges")}>
+						Judge Panel
+						<ArrowRightWhite className="arrow-right-icon" />
+					</p>
+					<p className="text6" onClick={() => handleCardClicks("/team")}>
+						Team
+						<ArrowRightWhite className="arrow-right-icon" />
+					</p>
+				</div>
+
+				{/* -------------------------- Column 4  ---------------------------------- */}
+				<div
+					className="col4 animated-div"
+					onClick={() =>
+						window.open(
+							"https://www.google.com/maps/d/u/0/viewer?mid=1GK1BeW3q1MbGuDaMUXa5F_GpHWo&hl=en&ll=18.820244%2C73.27026999999998&z=17"
+						)
+					}
+				>
+					<h3 className="text10">
+						Venue <Location className="location-icon" />
+					</h3>
+					<div className="flex flex-col ">
+						<p className="text-white pt-[2vh] text-[1vw] venue-text-mobile">
+							Vishwaniketan's Institute of Management Entrepreneurship and
+							Engineering Technology
+						</p>
+						{/* <p className="text-white  text-[0.8vw] ">
+                  National Highway 45, Potheri, SRM Nagar, Kattankulathur, Tamil
+                  Nadu - 603203
+                </p> */}
+						<div className="round"></div>
+					</div>
+				</div>
+				<div></div>
+				{/* -------------------------- Column 6  ---------------------------------- */}
+				<div className="col6 animated-div">
+					<h3 className="text13">
+						Organized & Managed By
+						<div className="flex justify-center items-center gap-1"></div>
+					</h3>
+					<div className="flex items-start justify-between flex-col">
+						<p className="text14">
+							SAAM (STUDENT ASSOCIATION OF ARTIFICIAL INTELLIGENCE AND MACHINE
+							LEARNINNG){" "}
+						</p>
+						<p className="text15">PIONEERTECH </p>
+						<div className="round2"></div>
+					</div>
+				</div>
+			</div>
 			<div className="bg-sep"></div>
 			<Photos />
 			<div className="bg-sep"></div>

@@ -24,8 +24,8 @@
   position: absolute;
   border-left: 4px solid rgb(0, 116, 251);
   height: 0vh;
-  top: 5vh;
-  left: 2.4vw;
+  top: 8vh;
+  left: 2.6vw;
 }
 @keyframes socialsAnim {
   0% {
@@ -43,7 +43,7 @@
   z-index: 99;
   color: black;
   top: 2vh;
-  left: 1.1vw;
+  left: 1.3vw;
   opacity: 0;
   animation: instagram 0.5s 0.3s linear forwards;
 }
@@ -52,7 +52,7 @@
   z-index: 99;
   color: black;
   top: 2vh;
-  left: 1.1vw;
+  left: 1.3vw;
   transform: translateY(9.5vh);
   opacity: 0;
   animation: facebook 0.3s 0.8s linear forwards;
@@ -62,7 +62,7 @@
   color: black;
   z-index: 99;
   top: 2vh;
-  left: 1.1vw;
+  left: 1.3vw;
   transform: translateY(15.5vh);
   opacity: 0;
   animation: youtube 0.3s 1.3s linear forwards;
@@ -97,7 +97,7 @@
   }
 }
 .logo {
-  width: 2vw;
+  width: 3vw;
 }
 .parent .components {
   font-family: inherit;
