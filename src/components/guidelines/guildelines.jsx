@@ -15,20 +15,19 @@ const guildelines = () => {
               1. The teams can have a minimum of 2 members and a maximum of 3
               members. 🤝👥
               <br /> <br />
-              2. The last date for team registration is 25th August 2023. ⏰🗓️{" "}
+              2. The last date for team registration is _________. ⏰🗓️{" "}
               <br />
               <br />
-              3. The last date for abstract submission is 28th August 2023. 📝🗓️{" "}
+              3. The last date for abstract submission is _______. 📝🗓️{" "}
               <br />
               <br />
-              4. The project should be unique and shouldn't have ever been
-              published in any other journals or competitions. 🚀🔍 <br />
+              4. The project should be unique 🚀🔍 <br />
               <br />
               5. The event will have three phases of judge review. Projects will
               be evaluated every 8 hours from the beginning of the finale. 👁️‍🗨️🕒{" "}
               <br />
               <br />
-              6. The project's work should sustain the whole 24 hours; if it
+              6. The project's work should sustain the whole 36 hours; if it
               fails to do so, the team will be disqualified immediately. 🏆🕒❌{" "}
               <br />
               <br />
@@ -39,17 +38,17 @@ const guildelines = () => {
             </div>
             <div className="guidelines-2">
               8. The abstract submission round is completely free for all teams
-              that have registered on or before the 25th of August 2023. 🆓📅{" "}
+              that have registered on or before the ______. 🆓📅{" "}
               <br />
               <br />
               9. The shortlisted/scrutinized teams for the finale of
-              "HACK-A-TANK" will be announced by 4:00 pm on the 29th of August
-              2023. 📣🏁 10. The Finale round begins at 10:00 am on 8th
-              September 2023 and concludes at 5:00 pm on the 9th September 2023.
+              "HACK-TO-CRACK" will be announced by ______ pm on the ______ 📣🏁 
+              10. The Finale round begins at _________
+               and concludes at _________________3.
               🏁🕙🏁
               <br />
               <br /> 11. The finale round will be offline and held at our SRM
-              VALLIAMMAI ENGINEERING COLLEGE, Potheri, Chennai. 🏛️📍 <br />
+              Vishwaniketan institute of Management Entreprenureship Enigeeniering, Kumbhiwali, Mumbai. 🏛️📍 <br />
               <br />
               12. Power outlets and worksheets will be provided to all teams
               prior to the commencement of the event. 🔌📑 <br />
