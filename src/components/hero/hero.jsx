@@ -185,7 +185,7 @@ const hero = () => {
 							>
 								<h3 className="text7">Domains</h3>
 								<h3 className="text8" style={{ margin: 0, cursor: "initial" }}>
-								
+
 								</h3>
 							</div>
 							<p className="text8" onClick={() => handleCardClicks("/set1")}>
@@ -242,10 +242,10 @@ const hero = () => {
 						About
 						<ArrowRightWhite className="arrow-right-icon" />
 					</p> */}
-					<p className="text6" onClick={() => handleCardClicks("/judges")}>
+					{/* <p className="text6" onClick={() => handleCardClicks("/judges")}>
 						Judge Panel
 						<ArrowRightWhite className="arrow-right-icon" />
-					</p>
+					</p> */}
 					<p className="text6" onClick={() => handleCardClicks("/team")}>
 						Team
 						<ArrowRightWhite className="arrow-right-icon" />
