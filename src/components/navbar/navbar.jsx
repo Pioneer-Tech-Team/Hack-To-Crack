@@ -164,8 +164,8 @@ const Navbar = () => {
               className="title-mobile"
               onClick={() => window.open("/", "_self")}
             >
-              <img src="/images/diamond.webp" width="30vw" alt="logo" />
-              Hackathon
+              <img src="/images/h2c.png" width="30vw" alt="logo" />
+              Hack-To-Crack
             </div>
             <div className="last-mobile">
               <h2 className="register-mobile">
