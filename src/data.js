@@ -12,7 +12,7 @@ export const coordinatorsData = [
     {
         name: "Mr. Mahesh Sutar",
         position: "Professor - AIML",
-        image: "/images/nandhashree.webp",
+        image: "/images/SUTAR_SIR.jpg",
     },
 ];
 

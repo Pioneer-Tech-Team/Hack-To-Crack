@@ -70,7 +70,7 @@ const events = () => {
               {" "}
               <h1>Registration</h1>
               <p>
-                🔗 Scan the QR in the poster or search www.hackatank.tech and
+                🔗 Scan the QR in the poster or search www.saamvimeet.com and
                 register for the event.
                 <br /> <br />
                 1️⃣ It will redirect you to the respective Google forms. Kindly
@@ -82,8 +82,8 @@ const events = () => {
                 3️⃣For any queries/issues, kindly check the contacts column for
                 Point of Contact (POC).
                 <br /> <br />
-                4️⃣Last date for registration is on or before the 25th of August
-                2023.
+                4️⃣Last date for registration is on or before the 10th of March
+                2024.
                 <br /> <br />
                 5️⃣The first round is free for all the teams that register for
                 the event.
@@ -113,7 +113,7 @@ const events = () => {
                 📄 Abstract of the project must be submitted only in PDF file
                 format.
                 <br /> <br />⏰ The last date for abstract submission is on or
-                before the 28th of August 2023.
+                before the 10th of March 2024.
               </p>
             </div>
           </div>
@@ -126,11 +126,11 @@ const events = () => {
                 ideology, etc.
                 <br /> <br />
                 📢 The scrutinized/shortlisted teams for the final round of
-                "HACK-A-TANK" will be announced on the 30th of August 2023.
+                "HACK-TO-CRACK" will be announced on the 30th of August 2024.
                 <br /> <br />
                 💰 The Shortlisted team should proceed with their registration
-                by completing the payment of Rs 999/- per team on or before 3rd
-                September 2023.
+                by completing the payment of Rs 500/- per team on or before 15th
+                March 2024.
                 <br /> <br />
                 🔄 After the completion of payment, the registration team will
                 assess you for the further procedures of the final round.
@@ -142,24 +142,24 @@ const events = () => {
               <h1>The Grand Finale</h1>
               <p>
                 🎉 The commencement of the inaugural function is scheduled at
-                10:00 am on the 8th of September 2023.
+                10:00 am on the 21st of March 2024.
                 <br /> <br />
-                ⏱️ The "HACK-A-TANK" event will begin at 1:00 pm on the 8th of
-                September 2023 and will wrap up at 1:00 pm on the 9th of
-                September 2023.
+                ⏱️ The "HACK-TO-CRACK" event will begin at 1:00 pm on the 21st of
+                March 2024 and will wrap up at 4:00 pm on the 22nd of
+                March 2024.
                 <br /> <br />
-                🍔🍕 The lunch and dinner for the 8th of September will be
+                🍔🍕 The lunch and dinner for the 21st of March will be
                 provided by the organizing committee to the participants.
                 <br /> <br />
-                🍳🍔 The breakfast and lunch for the 9th of September will be
+                🍳🍔 The breakfast and lunch for the 21st of March will be
                 provided by the organizing committee to the participants.
                 <br /> <br />
                 🍪 Refreshments will be provided to all the participating teams
                 at all feasible times by the organizing committee.
                 <br /> <br />
                 🏆 The event will be concluded with the announcement of the cash
-                prize winners of the "HACK-A-TANK" event on the 9th of September
-                2023 by 4:00 pm.
+                prize winners of the "HACK-TO-CRACK" event on the 9th of March
+                2024 by 4:00 pm.
               </p>
             </div>{" "}
           </div>
