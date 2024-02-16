@@ -47,7 +47,7 @@ const guildelines = () => {
                and concludes at _________________3.
               🏁🕙🏁
               <br />
-              <br /> 11. The finale round will be offline and held at our SRM
+              <br /> 11. The finale round will be offline and held at our 
               Vishwaniketan institute of Management Entreprenureship Enigeeniering, Kumbhiwali, Mumbai. 🏛️📍 <br />
               <br />
               12. Power outlets and worksheets will be provided to all teams

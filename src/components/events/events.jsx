@@ -126,7 +126,7 @@ const events = () => {
                 ideology, etc.
                 <br /> <br />
                 📢 The scrutinized/shortlisted teams for the final round of
-                "HACK-TO-CRACK" will be announced on the 30th of August 2024.
+                "HACK-TO-CRACK" will be announced on the 14th of February 2024.
                 <br /> <br />
                 💰 The Shortlisted team should proceed with their registration
                 by completing the payment of Rs 500/- per team on or before 15th
@@ -149,16 +149,13 @@ const events = () => {
                 March 2024.
                 <br /> <br />
                 🍔🍕 The lunch and dinner for the 21st of March will be
-                provided by the organizing committee to the participants.
-                <br /> <br />
-                🍳🍔 The breakfast and lunch for the 21st of March will be
-                provided by the organizing committee to the participants.
+                Paid.
                 <br /> <br />
                 🍪 Refreshments will be provided to all the participating teams
                 at all feasible times by the organizing committee.
                 <br /> <br />
-                🏆 The event will be concluded with the announcement of the cash
-                prize winners of the "HACK-TO-CRACK" event on the 9th of March
+                🏆 The event will be concluded with the announcement of the 
+                prize winners of the "HACK-TO-CRACK" event on the 22nd of March
                 2024 by 4:00 pm.
               </p>
             </div>{" "}

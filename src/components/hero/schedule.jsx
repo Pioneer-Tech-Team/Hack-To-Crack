@@ -35,7 +35,7 @@ const schedule = () => {
 						<div className="container" id="timeline-container">
 							<h2 className="date">
 								<div>
-									Coming Soon
+									14th Feb 2024
 									<div>
 										<div> </div> <div></div>
 									</div>
@@ -61,7 +61,7 @@ const schedule = () => {
 									<div>
 										<div></div> <div></div>
 									</div>
-									Coming Soon
+									15th Feb To 9 March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -78,7 +78,7 @@ const schedule = () => {
 						<div className="container ">
 							<h1 className="date">
 								<div>
-									Coming Soon
+									10th March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -99,7 +99,7 @@ const schedule = () => {
 							<h2 className="container-title">Finalists Announcements</h2>
 							<h1 className="date">
 								<div>
-									Coming Soon
+									12th March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -119,7 +119,7 @@ const schedule = () => {
 							<h2 className="container-title">Hackathon Finale</h2> <br />
 							<h1 className="date">
 								<div>
-									Coming Soon
+									21st March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -140,7 +140,7 @@ const schedule = () => {
 							<h2 className="container-title">Award Ceremony</h2>
 							<h1 className="date">
 								<div>
-									Coming Soon
+									22nd March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
