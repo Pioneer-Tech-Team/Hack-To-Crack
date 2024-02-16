@@ -152,7 +152,7 @@ const faqs = () => {
               />
             </h1>
             <p className="faqs-content-description">
-              The event has a prize pool of Rs 25,000 for the winners.
+              The event has a prize pool of Rs 1,00,000 for the winners.
             </p>
           </div>
           <div className="faqs-content" onClick={handleArrow}>

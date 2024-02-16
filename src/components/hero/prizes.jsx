@@ -18,10 +18,6 @@ export function Prizes() {
 					<h1 className="card-title">INR 20,000</h1>
 				</div>
 			</div>
-			<div className="card" style={{ width: "100%", margin: "1rem 0" }}>
-                    <img src="/images/prizes/trophy.png" alt="Trophy" width={256} />
-				<h1 className="card-title">INR 10,000 for each domain</h1>
-			</div>
 		</div>
 	);
 }
