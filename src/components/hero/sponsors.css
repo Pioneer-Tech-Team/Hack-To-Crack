@@ -58,6 +58,15 @@
   background-color: #cd7f32;
 }
 
+.sponsors {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  align-items: center;
+  @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
+    grid-template-columns: 1fr;
+  }
+}
 .sponsors-title::after {
   content: "";
   z-index: -1;
@@ -136,15 +145,16 @@
 }
 
 .sponsors-container img {
-  width: 10vw;
+  width: 15rem;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
-    width: 25vw;
+    width: 10rem;
   }
 }
 .sponsors-container-sub {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  color: rgb(58, 22, 69);
 }
 .sponsor-title a {
   letter-spacing: 2px;
