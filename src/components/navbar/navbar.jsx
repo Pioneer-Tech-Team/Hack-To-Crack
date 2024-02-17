@@ -52,7 +52,7 @@ const Navbar = () => {
       action: "click",
       label: "register",
     });
-    window.open("https://forms.gle/6yRJWopTvMdHRBE96");
+    window.open("https://unstop.com/p/hiring-through-hackathon-vishwaniketans-institute-of-management-entrepreneurship-and-engineering-technology-kumbhivali-901504");
   };
   const handleScroll = (id) => {
     ReactGA.event({

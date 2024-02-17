@@ -22,7 +22,7 @@ const hero = () => {
 			action: "click",
 			label: "register",
 		});
-		window.open("https://forms.gle/6yRJWopTvMdHRBE96");
+		window.open("https://unstop.com/p/hiring-through-hackathon-vishwaniketans-institute-of-management-entrepreneurship-and-engineering-technology-kumbhivali-901504");
 	};
 	const handleCardClicks = (card) => {
 		ReactGA.event({
@@ -202,9 +202,6 @@ const hero = () => {
 							</p>
 							<p className="text9" onClick={() => handleCardClicks("/set5")}>
 								Health Care <ArrowRightBlack className="arrow-right-icon" />
-							</p>
-							<p className="text9" onClick={() => handleCardClicks("/set6")}>
-								Enviroment <ArrowRightBlack className="arrow-right-icon" />
 							</p>
 						</div>
 					</div>

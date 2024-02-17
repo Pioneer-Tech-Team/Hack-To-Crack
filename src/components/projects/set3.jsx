@@ -4,13 +4,13 @@ import ReactGA from "react-ga";
 
 const set3 = () => {
   useEffect(() => {
-    document.title = "Projects - Set 2";
+    document.title = "Domain - Set 3";
   });
   const handleSoftwareView = (Element) => {
     ReactGA.event({
       category: "Button",
       action: "click",
-      label: "Project - set 2",
+      label: "Domain - set 3",
     });
     const ElementVisibility = Element.currentTarget.querySelector(
       ".software-content-description"
@@ -22,7 +22,7 @@ const set3 = () => {
   return (
     <React.Fragment>
       <div className="parent-software">
-        <h1 className="parent-software-title">Projects - Set 2</h1>
+        <h1 className="parent-software-title">Domain 3 - Application of AI</h1>
         <p className="projects-disclaimer">
           OWN/UNIQUE PROBLEM STATEMENTS ARE ALSO WELCOMED - Kindly intimate when
           speaking with registration team
@@ -30,192 +30,58 @@ const set3 = () => {
         <div className="software-container">
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Sustainable Solutions for Urban Mobility
+            AI001 - Geo Tagging based Land Allocation(plots) to prevent land grabling
             </h1>
             <p className="software-content-description projects-close projects-close">
               {" "}
-              Develop an application or system that addresses the challenges of
-              urban transportation, promoting sustainable alternatives such as
-              cycling, walking, or public transport. Consider factors like
-              traffic congestion, air pollution, and ease of access for all
-              citizens.
+              Participants are tasked with developing an AI-powered solution to address land grabbing through a Geo 
+              Tagging based Land Allocation system. The objective is to leverage AI algorithms to analyze geographical
+               data and allocate land plots efficiently. The system should prevent unauthorized land acquisitions by 
+               utilizing geo-tagging techniques to verify and validate land ownership. Participants are expected to 
+               design a reliable, transparent, and automated platform that ensures fair land distribution while
+                mitigating the risk of fraudulent land grabbing activities.
             </p>
           </div>
-
-          <div className="software-content" onClick={() => handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI-powered Healthcare Triage
-            </h1>
-            <p className="software-content-description projects-close">
-              Create an AI-powered platform that can assess and prioritize
-              patient symptoms to help healthcare professionals manage the
-              patient load efficiently during emergencies or outbreaks. The
-              system should be able to recognize critical cases that need
-              immediate attention.
-            </p>
-          </div>
-
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Education Accessibility for All
+            AI002 - Plant disease & crop yield estimatur
             </h1>
             <p className="software-content-description projects-close">
-              Design an educational tool or application that makes learning more
-              accessible to differently-abled individuals or those with learning
-              difficulties. Consider inclusivity, interactivity, and adaptable
-              content to cater to a diverse audience
+            In the realm of AI applications for agriculture, participants are challenged to create a solution 
+            that integrates AI algorithms for plant disease identification and crop yield estimation. The goal 
+            is to empower farmers with a tool that can analyze images of crops, identify diseases accurately,
+             and estimate potential yields. Participants should focus on implementing machine learning models
+              trained on diverse datasets to enhance the precision of disease detection and yield prediction. 
+              The resulting application should be user-friendly and accessible to farmers, contributing to 
+              improved crop management and increased agricultural productivity.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Waste Management and Recycling Optimization
+            AI003 - Anomaly detection using deep encoder model.
             </h1>
             <p className="software-content-description projects-close">
-              Develop an intelligent system that optimizes waste collection and
-              recycling processes in urban areas. The solution could include
-              real-time data analysis, route optimization, and incentivizing
-              citizens to participate actively in recycling initiatives
+            Develop an innovative anomaly detection system using a deep encoder model. The focus is on leveraging 
+            advanced neural network architectures to detect irregular patterns or anomalies in complex datasets. 
+            The participants are expected to design and implement a deep learning model, such as a deep encoder,
+             capable of learning normal patterns and identifying deviations. The application areas could range from
+              cybersecurity to industrial monitoring, where the system provides real-time alerts on anomalous behavior,
+               enhancing security and operational efficiency.
             </p>
           </div>
 
           <div className="software-content" onClick={handleSoftwareView}>
             <h1 className="software-content-title">
-              Cybersecurity for IoT Devices
+            AI004 - Fast & Reliable alert  system in poorly connected area
             </h1>
             <p className="software-content-description projects-close">
-              CBuild a security solution to protect Internet of Things (IoT)
-              devices from potential threats and vulnerabilities. The solution
-              should ensure data privacy, integrity, and device authentication
-              to prevent unauthorized access
-            </p>
-          </div>
-
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Disaster Preparedness and Response
-            </h1>
-            <p className="software-content-description projects-close">
-              Create a platform that enhances disaster preparedness and response
-              efforts. The system could provide real-time updates, offer
-              resources and support to affected communities, and enable
-              efficient coordination between emergency responders.
-            </p>
-          </div>
-
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Personalized Mental Health Support
-            </h1>
-            <p className="software-content-description projects-close">
-              Design an app or service that offers personalized mental health
-              support based on an individual's needs and preferences. The
-              solution should provide resources, coping strategies, and access
-              to professional help when necessary
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI-driven Fake News Detection
-            </h1>
-            <p className="software-content-description projects-close">
-              Develop an AI system capable of detecting and classifying fake
-              news articles or misinformation spread across various social media
-              platforms. The system should provide users with reliable sources
-              and factchecking information.{" "}
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">Food Waste Reduction</h1>
-            <p className="software-content-description projects-close">
-              Create a solution that helps reduce food waste in households,
-              restaurants, or supermarkets. This could include a smart inventory
-              management system, recipes for using leftover ingredients, or a
-              platform to connect surplus food with those in need.
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Eco-friendly Smart Home Automation
-            </h1>
-            <p className="software-content-description projects-close">
-              Design a smart home automation system that minimizes energy
-              consumption and promotes sustainable practices. The system should
-              intelligently control appliances, lighting, and temperature based
-              on occupancy and user preferences{" "}
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Redefining Education through Technology
-            </h1>
-            <p className="software-content-description projects-close">
-              Create an innovative educational platform that offers personalized
-              learning experiences, interactive content, and tools for teachers
-              to engage students in virtual or hybrid classrooms{" "}
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Mental Health and Wellness Suppor
-            </h1>
-            <p className="software-content-description projects-close">
-              Develop a mental health app that provides users with resources for
-              stress management, mindfulness exercises, and access to virtual
-              therapy sessions to promote overall well-being.
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Cybersecurity and Data Privacy for IoT Devices
-            </h1>
-            <p className="software-content-description projects-close">
-              Build a security platform that safeguards Internet of Things (IoT)
-              devices from cyber threats, ensuring data privacy and secure
-              communication between devices and networks.
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">Voice Prescription</h1>
-            <p className="software-content-description projects-close">
-              Design an app to write formatted prescriptions based on dictation
-              from doctor. Refer attachment for more detail. The app should
-              provide facility to sign the prescription and also send to the
-              patient directly on his phone and email id. The method of storing
-              the medical records (EHR) should follow relevant compliance laws
-              like HIPAA
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              AI based crop identification mobile app
-            </h1>
-            <p className="software-content-description projects-close h-[35vh]">
-              Develop a mobile application that can identify crop using only
-              field photo of a crop. The team must target at-least 10 different
-              crops for demonstration. The application will allow the user to
-              take photos and automatically identify the crop. The photo and
-              crop information along with geolocation information should be
-              stored in an internal database which can be exported/emailed.
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Portable RCS Measuring Device
-            </h1>
-            <p className="software-content-description projects-close">
-              Which is capable of independent operation and deployable from
-              multiple platforms (Ship, boat, UAV, etc)
-            </p>
-          </div>
-          <div className="software-content" onClick={handleSoftwareView}>
-            <h1 className="software-content-title">
-              Redefining Education through Technology
-            </h1>
-            <p className="software-content-description projects-close">
-              Create an innovative educational platform that offers personalized
-              learning experiences, interactive content, and tools for teachers
-              to engage students in virtual or hybrid classrooms{" "}
+            The challenge presented to participants involves creating an AI-driven alert system tailored for 
+            poorly connected areas. The aim is to design a system that operates efficiently even in low-bandwidth
+             or unreliable network conditions. Participants should focus on utilizing AI algorithms for quick and
+              reliable communication of alerts, considering potential disruptions in connectivity. The resulting 
+              system should provide timely alerts for various scenarios, such as emergencies or critical events, 
+              ensuring the safety and well-being of individuals in areas with limited connectivity.
             </p>
           </div>
         </div>
