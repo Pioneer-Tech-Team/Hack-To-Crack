@@ -168,7 +168,7 @@ const schedule = () => {
 						<div className="container-mobile" id="timeline-container">
 							<h2 className="container-title-mobile">Registration opens</h2>{" "}
 							<h2 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>14th Feb 2024</div>
 							</h2>
 							<p className="container-description-mobile">
 								"Calling all aspiring tech enthusiasts, developers, and problem
@@ -185,7 +185,7 @@ const schedule = () => {
 						<div className="container-mobile" id="timeline-container">
 							<h2 className="container-title-mobile">Abstract Submission</h2>
 							<h1 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>15th Feb To 9 March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Submit your abstracts and be a part of the forefront of
@@ -198,7 +198,7 @@ const schedule = () => {
 						<div className="container-mobile ">
 							<h2 className="container-title-mobile">Finalists Annoncements</h2>
 							<h1 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>12th March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Step into the limelight – the moment we've all been waiting for
@@ -212,7 +212,7 @@ const schedule = () => {
 						<div className="container-mobile">
 							<h2 className="container-title-mobile">Registration Closes</h2>
 							<h1 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>10th March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Last call for registration! Time is running out to be a part of
@@ -227,7 +227,7 @@ const schedule = () => {
 							<h2 className="container-title-mobile">Hackathon Finale</h2>{" "}
 							<br />
 							<h1 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>21st March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Get ready for the moment of triumph – the Hackathon Finale is
@@ -240,7 +240,7 @@ const schedule = () => {
 						<div className="container-mobile ">
 							<h2 className="container-title-mobile">Award Ceremony</h2>
 							<h1 className="date-mobile">
-								<div>Coming Soon</div>
+								<div>22nd March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								The judges deliberate, and winners are announced in various

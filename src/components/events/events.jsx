@@ -73,7 +73,7 @@ const events = () => {
                 🔗 Scan the QR in the poster or search www.saamvimeet.com and
                 register for the event.
                 <br /> <br />
-                1️⃣ It will redirect you to the respective Google forms. Kindly
+                1️⃣ It will redirect you to the respective Registration forms. Kindly
                 fill in the requested details.
                 <br /> <br />
                 2️⃣Our registration team will contact you further upon
@@ -101,7 +101,7 @@ const events = () => {
               </h1>
               <p>
                 📋 The problem statements are available on the home page, and it
-                is provided at the bottom of this page as a PDF for downloading.
+                is provided at the bottom of registration link page as a PDF for downloading.
                 <br /> <br />
                 📥 We also accept your own/inspired problem statements for
                 review. Kindly submit it as an abstract and the registration

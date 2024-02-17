@@ -21,7 +21,7 @@ export const convenerData = [
         name: "Dr Ankush B Pawar",
         position: "Head Of Department - CSE AIML",
         image: "/images/ankush.jpeg",
-        message: "Lorem Ipsusm is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        message:"On behalf of Hack to Crack  1.0 team I welcome you all to showcase your innovation, creativity and problem solving prowess.Let us come together, embrace the spirit of teamwork and innovation, and push the boundaries of what is possible."
     },
 
 ];

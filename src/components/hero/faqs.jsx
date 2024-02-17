@@ -138,7 +138,7 @@ const faqs = () => {
             </h1>
             <p className="faqs-content-description">
               Click the register button on the home page and you will be
-              directed to the respective Google form. Kindly submit the required
+              directed to the respective Registration form. Kindly submit the required
               details and our organizing team will contact you as soon as
               possible.
             </p>
