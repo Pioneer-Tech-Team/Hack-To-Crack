@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./judges.css";
 import Judge3 from "../judges/Judge3";
-import { set1, set2, set3, set4 ,set5 ,set6} from "./Details";
+import { set1, set2, set3, set4 ,set5 , set6, set7, set8 } from "./Details";
 const Team = () => {
   useEffect(() => {
     document.title = "Judge Panel | Hack To Crack";
@@ -27,6 +27,8 @@ const Team = () => {
       <Judge3 mem = {set4} />
       <Judge3 mem = {set5} />
       <Judge3 mem = {set6} />
+      <Judge3 mem = {set7} />
+      <Judge3 mem = {set8} />
       </section>
     </div>
   );
