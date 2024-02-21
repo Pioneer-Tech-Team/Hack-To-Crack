@@ -12,13 +12,13 @@ const guildelines = () => {
         <div className="guidelines-container">
           <div className="guidelines-content">
             <div className="guidelines-1">
-              1. The teams can have a minimum of 2 members and a maximum of 3
+              1. The teams can have a minimum of 2 members and a maximum of 4
               members. 🤝👥
               <br /> <br />
-              2. The last date for team registration is _________. ⏰🗓️{" "}
+              2. The last date for team registration is 9th Of March 2024. ⏰🗓️{" "}
               <br />
               <br />
-              3. The last date for abstract submission is _______. 📝🗓️{" "}
+              3. The last date for abstract submission is 10th Of March 2024. 📝🗓️{" "}
               <br />
               <br />
               4. The project should be unique 🚀🔍 <br />
@@ -38,13 +38,12 @@ const guildelines = () => {
             </div>
             <div className="guidelines-2">
               8. The abstract submission round is completely free for all teams
-              that have registered on or before the ______. 🆓📅{" "}
+              that have registered on or before the 10th March. 🆓📅{" "}
               <br />
               <br />
               9. The shortlisted/scrutinized teams for the finale of
-              "HACK-TO-CRACK" will be announced by ______ pm on the ______ 📣🏁 
-              10. The Finale round begins at _________
-               and concludes at _________________3.
+              "HACK-TO-CRACK" will be announced by 10 pm on the 12th of March 📣🏁 
+              10. The Finale round begins at Offlinne Mode at ViMEET Campus.
               🏁🕙🏁
               <br />
               <br /> 11. The finale round will be offline and held at our 

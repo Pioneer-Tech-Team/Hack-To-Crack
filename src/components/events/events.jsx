@@ -126,7 +126,7 @@ const events = () => {
                 ideology, etc.
                 <br /> <br />
                 📢 The scrutinized/shortlisted teams for the final round of
-                "HACK-TO-CRACK" will be announced on the 14th of February 2024.
+                "HACK-TO-CRACK" will be announced on the 12th of March 2024.
                 <br /> <br />
                 💰 The Shortlisted team should proceed with their registration
                 by completing the payment of Rs 500/- per team on or before 15th
@@ -144,11 +144,11 @@ const events = () => {
                 🎉 The commencement of the inaugural function is scheduled at
                 10:00 am on the 21st of March 2024.
                 <br /> <br />
-                ⏱️ The "HACK-TO-CRACK" event will begin at 1:00 pm on the 21st of
+                ⏱️ The "HACK-TO-CRACK" event will begin at 11:00 AM on the 21st of
                 March 2024 and will wrap up at 4:00 pm on the 22nd of
                 March 2024.
                 <br /> <br />
-                🍔🍕 The lunch and dinner for the 21st of March will be
+                🍔🍕 The lunch and dinner for the 21st & 22nd of March will be
                 Paid.
                 <br /> <br />
                 🍪 Refreshments will be provided to all the participating teams
