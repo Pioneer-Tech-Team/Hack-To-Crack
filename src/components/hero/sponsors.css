@@ -60,7 +60,7 @@
 
 .sponsors {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   align-items: center;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
@@ -101,7 +101,7 @@
 .sponsors-container {
   margin-top: 5vh;
   width: 100%;
-  height: fit-content;
+  height: 100%;
   display: flex;
   justify-content: center;
   @media all and (max-width: 768px) and (max-height: 1024px) and (orientation: portrait) {
