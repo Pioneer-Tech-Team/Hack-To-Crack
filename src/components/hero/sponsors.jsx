@@ -154,6 +154,7 @@ const sponsors = () => {
 						</div>
 					</div>
 				</div>
+				
 				<div className="sponsors">
 					<div>
 						<p className="sponsor-tag">
@@ -178,6 +179,33 @@ const sponsors = () => {
 							</div>
 						</div>
 					</div>
+
+					<div className="sponsors">
+    <div>
+        <p className="sponsor-tag">
+            <span>Marketing Sponsor</span>
+        </p>
+        <div className="sponsors-container">
+            <div className="sponsors-border">
+                <div>
+                    <img
+                        src="/images/sponsors/Unstop-Logo-Blue-Extra-Large.jpg"
+                        alt="Marketing Sponsor"
+                    />
+                </div>
+                <div className="sponsors-container-sub">
+                    <h1 className="sponsor-title">
+                        <a href="https://marketingsponsor.com/" target="_blank">
+                            UNSTOP
+                        </a>
+                    </h1>
+                </div>
+                <LaunchLink className="link-launch-icon" />
+            </div>
+        </div>
+    </div>
+</div>
+
 
 					<div>
 						<p className="sponsor-tag">
