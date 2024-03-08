@@ -39,48 +39,27 @@ const sponsors = () => {
 					<div className="sponsors-container">
 						<div className="sponsors-border">
 							<div>
-								<img
-									src="/images/sponsors/indian-green-building-council.jpeg"
-									alt="INDIAN GREEN BUILDING COUNCIL"
-								/>
-							</div>
-							<div className="sponsors-container-sub">
-								<h1 className="sponsor-title">
-									<a href="https://igbc.in/" target="_blank">
-										INDIAN GREEN BUILDING COUNCIL
-									</a>
-								</h1>
-							</div>
-							<LaunchLink className="link-launch-icon" />
-						</div>
-					</div>
-					<div className="sponsors-container">
-						<div className="sponsors-border">
-							<div>
-								<img
-									src="/images/sponsors/prem-jain.jpeg"
-									alt="PREM JAIN MEMORIAL TRUST"
-								/>
-							</div>
-							<div className="sponsors-container-sub">
-								<h1 className="sponsor-title">
-									<a href="https://premjainmemorialtrust.com/" target="_blank">
-										PREM JAIN MEMORIAL TRUST
-									</a>
-								</h1>
-							</div>
-							<LaunchLink className="link-launch-icon" />
-						</div>
-					</div>
-					<div className="sponsors-container">
-						<div className="sponsors-border">
-							<div>
 								<img src="/images/sponsors/ap-tech.webp" alt="APTECH-Panvel" />
 							</div>
 							<div className="sponsors-container-sub">
 								<h1 className="sponsor-title">
 									<a href="https://aptechpanvel.in/" target="_blank">
 										APTECH-Panvel
+									</a>
+								</h1>
+							</div>
+							<LaunchLink className="link-launch-icon" />
+						</div>
+					</div>
+					<div className="sponsors-container">
+						<div className="sponsors-border">
+							<div>
+								<img src="/images/sponsors/sr counseling .jpg" alt="RKDEMY" />
+							</div>
+							<div className="sponsors-container-sub">
+								<h1 className="sponsor-title">
+									<a href="https://www.srcounselling.in/" target="_blank">
+										SR COUNSELLING
 									</a>
 								</h1>
 							</div>
@@ -120,6 +99,22 @@ const sponsors = () => {
 					<div className="sponsors-container">
 						<div className="sponsors-border">
 							<div>
+								<img src="/images/sponsors/dses.webp" alt="DSES PVT LTD" />
+							</div>
+							<div className="sponsors-container-sub">
+								<h1 className="sponsor-title">
+									<a href="https://www.dnyandases.com" target="_blank">
+										DSES PVT LTD
+									</a>
+								</h1>
+							</div>
+							<LaunchLink className="link-launch-icon" />
+						</div>
+					</div>
+				</div>
+				<div className="sponsors-container">
+						<div className="sponsors-border">
+							<div>
 								<img
 									src="/images/sponsors/sonsvels.jpg"
 									alt="SONSVELS SOLUTION"
@@ -138,22 +133,6 @@ const sponsors = () => {
 							<LaunchLink className="link-launch-icon" />
 						</div>
 					</div>
-					<div className="sponsors-container">
-						<div className="sponsors-border">
-							<div>
-								<img src="/images/sponsors/dses.webp" alt="DSES PVT LTD" />
-							</div>
-							<div className="sponsors-container-sub">
-								<h1 className="sponsor-title">
-									<a href="https://www.dnyandases.com" target="_blank">
-										DSES PVT LTD
-									</a>
-								</h1>
-							</div>
-							<LaunchLink className="link-launch-icon" />
-						</div>
-					</div>
-				</div>
 
 				<div className="sponsors">
 					<div>
@@ -170,7 +149,7 @@ const sponsors = () => {
 								</div>
 								<div className="sponsors-container-sub">
 									<h1 className="sponsor-title">
-										<a href="https://pioneertech.net.in/" target="_blank">
+										<a href="https://pioneertech" target="_blank">
 											Pioneertech
 										</a>
 									</h1>
