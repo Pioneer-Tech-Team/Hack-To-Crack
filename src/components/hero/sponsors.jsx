@@ -133,6 +133,42 @@ const sponsors = () => {
 							<LaunchLink className="link-launch-icon" />
 						</div>
 					</div>
+					
+<React.Fragment>
+  <div className="parent-sponsors">
+    {/* Existing sponsor sections */}
+    
+    {/* Media Sponsor section for Evepaper */}
+    <div className="sponsors">
+      <div>
+        <p className="sponsor-tag">
+          <span>Media Sponsor</span>
+        </p>
+        <div className="sponsors-container" style={{ height: 200 }}>
+          <div className="sponsors-border">
+            <div>
+              <img
+                src="images/sponsors/Evepaper logo (2).png"
+                alt="Evepaper"
+              />
+            </div>
+            <div className="sponsors-container-sub">
+              <h1 className="sponsor-title">
+                <a href="https://evepaper.com/unstops-article-writing-competition-hom/" target="_blank">
+                  Evepaper
+                </a>
+              </h1>
+            </div>
+            <LaunchLink className="link-launch-icon" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {/* Existing sponsor sections */}
+  </div>
+</React.Fragment>
+
 
 				<div className="sponsors">
 					<div>
