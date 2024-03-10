@@ -12,7 +12,7 @@ const people = [
 		name: "Sahebraju P",
 		image: "/images/team/SAHEBRAJU PEERZADE.jpg",
 		description: "President - SAAM (Event Head)",
-		phone: "72189 61480",
+		phone: "7218961480",
 		email: "hasebpeerzade@gmail.com",
 		instagram: "sayed_sahebraju",
 	},
