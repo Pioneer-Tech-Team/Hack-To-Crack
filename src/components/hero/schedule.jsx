@@ -61,7 +61,7 @@ const schedule = () => {
 									<div>
 										<div></div> <div></div>
 									</div>
-									15th Feb To 9 March 2024
+									15th Feb To 15th March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -99,7 +99,7 @@ const schedule = () => {
 							<h2 className="container-title">Finalists Announcements</h2>
 							<h1 className="date">
 								<div>
-									12th March 2024
+									15th March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
