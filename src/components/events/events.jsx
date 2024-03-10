@@ -82,7 +82,7 @@ const events = () => {
                 3️⃣For any queries/issues, kindly check the contacts column for
                 Point of Contact (POC).
                 <br /> <br />
-                4️⃣Last date for registration is on or before the 10th of March
+                4️⃣Last date for registration is on or before the 15th of March
                 2024.
                 <br /> <br />
                 5️⃣The first round is free for all the teams that register for
@@ -113,7 +113,7 @@ const events = () => {
                 📄 Abstract of the project must be submitted only in PDF file
                 format.
                 <br /> <br />⏰ The last date for abstract submission is on or
-                before the 10th of March 2024.
+                before the 15th of March 2024.
               </p>
             </div>
           </div>

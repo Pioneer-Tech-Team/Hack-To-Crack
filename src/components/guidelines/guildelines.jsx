@@ -18,7 +18,7 @@ const guildelines = () => {
               2. The last date for team registration is 9th Of March 2024. ⏰🗓️{" "}
               <br />
               <br />
-              3. The last date for abstract submission is 10th Of March 2024. 📝🗓️{" "}
+              3. The last date for abstract submission is 15th Of March 2024. 📝🗓️{" "}
               <br />
               <br />
               4. The project should be unique 🚀🔍 <br />
@@ -38,7 +38,7 @@ const guildelines = () => {
             </div>
             <div className="guidelines-2">
               8. The abstract submission round is completely free for all teams
-              that have registered on or before the 10th March. 🆓📅{" "}
+              that have registered on or before the 15th March. 🆓📅{" "}
               <br />
               <br />
               9. The shortlisted/scrutinized teams for the finale of

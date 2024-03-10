@@ -78,7 +78,7 @@ const schedule = () => {
 						<div className="container ">
 							<h1 className="date">
 								<div>
-									10th March 2024
+									15th March 2024
 									<div>
 										<div></div> <div></div>
 									</div>
@@ -185,7 +185,7 @@ const schedule = () => {
 						<div className="container-mobile" id="timeline-container">
 							<h2 className="container-title-mobile">Abstract Submission</h2>
 							<h1 className="date-mobile">
-								<div>15th Feb To 9 March 2024</div>
+								<div>15th Feb To 15th March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Submit your abstracts and be a part of the forefront of
@@ -198,7 +198,7 @@ const schedule = () => {
 						<div className="container-mobile ">
 							<h2 className="container-title-mobile">Finalists Annoncements</h2>
 							<h1 className="date-mobile">
-								<div>12th March 2024</div>
+								<div>15th March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Step into the limelight – the moment we've all been waiting for
@@ -212,7 +212,7 @@ const schedule = () => {
 						<div className="container-mobile">
 							<h2 className="container-title-mobile">Registration Closes</h2>
 							<h1 className="date-mobile">
-								<div>10th March 2024</div>
+								<div>15th March 2024</div>
 							</h1>
 							<p className="container-description-mobile">
 								Last call for registration! Time is running out to be a part of
