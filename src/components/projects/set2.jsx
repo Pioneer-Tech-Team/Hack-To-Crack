@@ -83,6 +83,10 @@ const set2 = () => {
              Additionally, the system should analyze and visualize alumni career trajectories for inspiration
               and mentorship opportunities for their juniors, promoting ongoing collaboration and knowledge
                sharing within the educational community.
+               (Higher Educational institutions nurture, close to 20
+                lack professionals every year. These institutions could not track the progress made by their 
+                allumni after graduation, thus creating multiple issues for Allumni engagement, and data, to
+                 get benefits of Alumni and also preparation for accreditation.)
             </p>
           </div>
         </div>
